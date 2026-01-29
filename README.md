@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy ChikyDev
 
-<!--
-**ChikyDev/ChikyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador en aprendizaje con foco principal en **Python 🐍**.
+Me gusta crear proyectos prácticos para mejorar mi lógica de programación,
+especialmente juegos por consola y pequeñas herramientas.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- 🎮 **Juego de preguntas (quiz de geografía)**  
+- 🧮 **Juego de operaciones matemáticas**  
+- 🧾 **Generador de datos ficticios**  
+- 🗂️ **Sistema de consulta de datos en Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Todos estos proyectos están desarrollados en Python y forman parte de mi
+proceso de aprendizaje.
+
+## 🛠️ Tecnologías
+- Python 3
+- Programación por consola
+- Lógica de programación
+- Manejo de datos con estructuras (`list`, `dict`)
+
+## 📚 Actualmente aprendiendo
+- Mejores prácticas en Python
+- Organización y estructura de proyectos
+- Bases de datos y persistencia de datos
+- Desarrollo de lógica y resolución de problemas
+- Fundamentos de desarrollo de software
+
+## 📫 Contacto
+📫 Contáctame si quieres ver más o colaborar.
+
+Gracias por visitar mi perfil 🙂
