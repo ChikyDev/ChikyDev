@@ -19,8 +19,8 @@ Actualmente estudio ciberseguridad con un enfoque en **protección de sistemas, 
 
 ## 🛠️ Tecnologías y herramientas
 
-- **:contentReference[oaicite:0]{index=0}**
-- Git & **:contentReference[oaicite:1]{index=1}**
+- GitHub
+- Git
 - Linux
 - Automatización con scripts
 - Fundamentos de redes
