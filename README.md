@@ -36,6 +36,12 @@ Actualmente estudio ciberseguridad con un enfoque en **protección de sistemas, 
 
 ---
 
+## 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikyDev&layout=compact&theme=tokyonight)
+
+---
+
 ## 🎯 Objetivo
 
 Seguir desarrollando proyectos prácticos que combinen **programación y ciberseguridad**, fortaleciendo habilidades para trabajar en **defensa y protección de sistemas**.
