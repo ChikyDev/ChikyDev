@@ -1,8 +1,8 @@
 # 👋 Hola, soy ChikyDev
 
-Soy desarrollador en aprendizaje con foco principal en **Python 🐍**.
-Me gusta crear proyectos prácticos para mejorar mi lógica de programación,
-especialmente juegos por consola y pequeñas herramientas.
+Me enfoco en el uso de Python para desarrollar herramientas, automatizar tareas y resolver problemas mediante programación. Actualmente estudio ciberseguridad, explorando áreas como análisis de datos, redes y seguridad ofensiva.
+
+Comparto proyectos prácticos mientras continúo aprendiendo y mejorando mis habilidades en programación y seguridad informática.
 
 ## 🛠️ Tecnologías
 - Python 3
