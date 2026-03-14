@@ -1,8 +1,8 @@
 # 👋 Hola, soy ChikyDev
 
-Me enfoco en el uso de Python para desarrollar herramientas, automatizar tareas y resolver problemas mediante programación. Actualmente estudio ciberseguridad, explorando áreas como análisis de datos, redes y seguridad ofensiva.
+Utilizo Python para desarrollar herramientas, automatizar tareas y resolver problemas mediante programación. Actualmente estudio ciberseguridad con enfoque en defensa, incluyendo monitoreo, análisis de amenazas y protección de sistemas.
 
-Comparto proyectos prácticos mientras continúo aprendiendo y mejorando mis habilidades en programación y seguridad informática.
+Comparto proyectos prácticos mientras continúo fortaleciendo mis habilidades en programación y seguridad informática.
 
 ## 🛠️ Tecnologías
 - Python 3
