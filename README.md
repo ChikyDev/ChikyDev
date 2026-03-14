@@ -27,19 +27,6 @@ Actualmente estudio ciberseguridad con un enfoque en **protección de sistemas, 
 
 ---
 
-## 📂 Proyectos
-
-En este perfil encontrarás proyectos como:
-
-- 🧠 Quiz de geografía
-- ➗ Juego de operaciones matemáticas
-- 📊 Generador de datos
-- 📚 Sistema de consulta de datos con diccionarios
-
-Estos proyectos están enfocados en **practicar programación y mejorar habilidades en Python**.
-
----
-
 ## 📈 Actualmente aprendiendo
 
 - Manejo de archivos y **JSON**
