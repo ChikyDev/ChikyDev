@@ -1,23 +1,58 @@
 # 👋 Hola, soy ChikyDev
 
-Utilizo Python para desarrollar herramientas, automatizar tareas y resolver problemas mediante programación. Actualmente estudio ciberseguridad con enfoque en defensa, incluyendo monitoreo, análisis de amenazas y protección de sistemas.
+💻 **Python Developer en formación**  
+🛡️ **Estudiante de Ciberseguridad (enfoque defensivo / Blue Team)**  
 
-Comparto proyectos prácticos mientras continúo fortaleciendo mis habilidades en programación y seguridad informática.
+Me enfoco en utilizar **Python** para desarrollar herramientas, automatizar tareas y resolver problemas mediante programación.  
+Actualmente estudio ciberseguridad con un enfoque en **protección de sistemas, monitoreo de redes y buenas prácticas de seguridad**.
 
-## 🛠️ Tecnologías
-- Python 3
-- Programación por consola
-- Lógica de programación
-- Manejo de datos con estructuras (`list`, `dict`)
+---
 
-## 📚 Actualmente aprendiendo
-- Mejores prácticas en Python
-- Organización y estructura de proyectos
-- Bases de datos y persistencia de datos
-- Desarrollo de lógica y resolución de problemas
-- Fundamentos de desarrollo de software
+## 🚀 Sobre mí
 
-## 📫 Contacto
-📫 Contáctame si quieres ver más o colaborar.
+- 🐍 Desarrollo proyectos usando **Python**
+- 🔐 Estudio **ciberseguridad defensiva**
+- 🧠 Interesado en **protección de sistemas y monitoreo de redes**
+- 📚 Aprendiendo constantemente mediante proyectos prácticos
 
-Gracias por visitar mi perfil 🙂
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **:contentReference[oaicite:0]{index=0}**
+- Git & **:contentReference[oaicite:1]{index=1}**
+- Linux
+- Automatización con scripts
+- Fundamentos de redes
+
+---
+
+## 📂 Proyectos
+
+En este perfil encontrarás proyectos como:
+
+- 🧠 Quiz de geografía
+- ➗ Juego de operaciones matemáticas
+- 📊 Generador de datos
+- 📚 Sistema de consulta de datos con diccionarios
+
+Estos proyectos están enfocados en **practicar programación y mejorar habilidades en Python**.
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Manejo de archivos y **JSON**
+- Programación orientada a objetos (**POO**)
+- Automatización con Python
+- Fundamentos de **ciberseguridad**
+
+---
+
+## 🎯 Objetivo
+
+Seguir desarrollando proyectos prácticos que combinen **programación y ciberseguridad**, fortaleciendo habilidades para trabajar en **defensa y protección de sistemas**.
+
+---
+
+⭐ Siempre abierto a aprender y mejorar.
